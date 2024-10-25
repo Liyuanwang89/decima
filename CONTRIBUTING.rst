@@ -142,7 +142,7 @@ Clone the repository
    page. This creates a copy of the code under your account on |the repository service|.
 #. Clone this copy to your local disk::
 
-    git clone git@github.com:YourLogin/decima.git
+    git clone git@github.com:Liyuanwang89/decima.git
     cd decima
 
 #. You should run::
